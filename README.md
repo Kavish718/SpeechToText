@@ -32,7 +32,7 @@ Whisper leverages a transformer architecture for an end-to-end approach. It is d
 ## Evaluation
 We evaluate the performance of our model with other state-of-the-art speech to text models as illustrated below.
 Analysis of performance using WER:  
-![Image 1](path/to/image1.png)  
+![WER Plot](images/WER_Plot.png)  
 
 Analysis of space efficiency using number of parameters:  
-![Image 2](path/to/image2.png)
+![Size Plot](images/Size_Plot.png)
