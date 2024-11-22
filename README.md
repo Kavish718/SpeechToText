@@ -26,7 +26,7 @@ The basic intuition behind choosing CNN combined with RNN stems from the spatial
 ### Wav2Vec2
 Wav2Vec2 is a self-supervised learning model for speech recognition developed by Facebook AI. Basically, Wav2Vec2 masks the speech input within the latent space and tackles a contrastive task that is established on a quantization of the latent representations. The latent representations are learned simultaneously.
 
-### MWhisper
+### Whisper
 Whisper leverages a transformer architecture for an end-to-end approach. It is designed to handle various speech processing tasks, including multilingual speech recognition, speech translation, spoken language identification and others
 
 ---
