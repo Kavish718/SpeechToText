@@ -10,7 +10,7 @@ This project presents an in-depth exploration of speech-to-text models with a fo
 We use the Librispeech dataset  that is an open Corpus of audio and corresponding transcripts and has a collection of around 1000 hours of audiobooks as part of the LibriVox project.
 
 
-**Dataset Link:** [https://www.openslr.org/12]\
+**Dataset Link:** [https://www.openslr.org/12]
 
 ---
 
