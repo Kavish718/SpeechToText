@@ -2,8 +2,6 @@
 
 
 ## Introduction
-Provide a brief introduction to your project, explaining its purpose and objectives.
-
 This project presents an in-depth exploration of speech-to-text models with a focus on minimizing space usage. By leveraging the LibriSpeech dataset, two distinct approaches for extracting text from speech are investigated and compared to existing models. The project aims to contribute to the field of speech recognition by providing insights into model performance and potential areas for improvement, while also addressing the important consideration of space optimization in various applications.
 ---
 
@@ -33,3 +31,8 @@ Whisper leverages a transformer architecture for an end-to-end approach. It is d
 
 ## Evaluation
 We evaluate the performance of our model with other state-of-the-art speech to text models as illustrated below.
+Analysis of performance using WER:  
+![Image 1](path/to/image1.png)  
+
+Analysis of space efficiency using number of parameters:  
+![Image 2](path/to/image2.png)
