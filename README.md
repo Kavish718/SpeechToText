@@ -37,3 +37,8 @@ We evaluate the performance of our model with other state-of-the-art speech to t
 
  
 ![Size Plot](images/Size_Plot.png)
+
+<p align="center">
+  <img src="images/Size_Plot.png" alt="Size Plot" width="45%">
+  <img src="images/WER_Plot.png" alt="WER Plot" width="45%">
+</p>
