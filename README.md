@@ -1,9 +1,9 @@
 # SpeechToText
 
----
+##Introduction
 
-## Introduction
 This project presents an in-depth exploration of speech-to-text models with a focus on minimizing space usage. By leveraging the LibriSpeech dataset, two distinct approaches for extracting text from speech are investigated and compared to existing models. The project aims to contribute to the field of speech recognition by providing insights into model performance and potential areas for improvement, while also addressing the important consideration of space optimization in various applications.
+
 ---
 
 ## Dataset Used
