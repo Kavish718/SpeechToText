@@ -33,11 +33,6 @@ Whisper leverages a transformer architecture for an end-to-end approach. It is d
 We evaluate the performance of our model with other state-of-the-art speech to text models as illustrated below.
 
 
-![WER Plot](images/WER_Plot.png)  
-
- 
-![Size Plot](images/Size_Plot.png)
-
 <p align="center">
   <img src="images/Size_Plot.png" alt="Size Plot" width="45%">
   <img src="images/WER_Plot.png" alt="WER Plot" width="45%">
